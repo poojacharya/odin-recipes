@@ -1,10 +1,33 @@
-
-.title1
+/* index.html */
+.main-title
 {
     color: #B9375D;
     text-align: center;
 }
-li
+.menu
 {
     color: #D25D5D;
+    margin: 20px;
+}
+/* biriyani.html */
+.recipe
+{
+    text-align: center;
+    color: #B9375D;
+    margin: 10px auto;
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: auto;
+    border-radius: 10px;
+    border: 5px solid #D25D5D;
+}
+.side
+{
+    color: #B9375D;
+    text-decoration-line: underline;
 }
